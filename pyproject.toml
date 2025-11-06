@@ -8,6 +8,7 @@ dependencies = [
   "biopython>=1.86",
   "biotite>=1.5.0",
   "optuna>=4.5.0",
+  "polars>=1.35.1",
   "scikit-learn>=1.7.2",
   "torch>=2.7.0",
   "transformers>=4.57.1",

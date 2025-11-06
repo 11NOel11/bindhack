@@ -9,5 +9,14 @@ wheels/
 # Virtual environments
 .venv
 
-# data
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
 data/*
+notebooks/.ipynb_checkpoints
+notebooks/00-data-preparation.ipynb
+
+# Internal documentation
+*DE.md
